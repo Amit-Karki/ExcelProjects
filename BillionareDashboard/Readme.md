@@ -18,7 +18,8 @@ Map showing total wealth of a country if wealth of billionares are taken in acco
 <img width="272" height="272" alt="Screenshot 2026-08-29 164132" src="https://github.com/user-attachments/assets/aec4e9a0-2ef8-40a3-9732-bc6285939ab0" />
 
 
-
+Data Source: Claude.ai.
+Note that it is only a mini project so we didn't extracted the real time forbes data but gave claude to extract it from forbes website and present us in excel format
 
 
 
